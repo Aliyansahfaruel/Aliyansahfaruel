@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 💬 Ask me about **Html,Css, and PHP**
+- 💬 Ask me about **Html,Css, and Python, PHP**
 
 - 📫 How to reach me **farulsaputra235@gmail.com**
 
