@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Aliyansahfaruel">Aliyansah Faruel</a></h1>
-<h3 align="center">A Passionate Web Developer from Pamekasan Madura, Jawa Timur, Indonesia</h3>
+<h3 align="center">A Passionate Web Developer from Pamekasan, Madura, Jawa Timur, Indonesia</h3>
 
 
 - 🔭 Information Engineering Student at **Nurul Jadid University**
