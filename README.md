@@ -32,8 +32,8 @@
 &nbsp;
 
 ## Languages and Tools
-<p align="center"> <a href="https://github.com/Aliyansahfaruel"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,django"></a></p>
-<p align="center"> <a href="https://github.com/Aliyansahfaruel"><img src="https://skillicons.dev/icons?i=photoshop,php,mysql,python"></a></p>
+<p align="center"> <a href="https://github.com/Aliyansahfaruel"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,django,figma,"></a></p>
+<p align="center"> <a href="https://github.com/Aliyansahfaruel"><img src="https://skillicons.dev/icons?i=photoshop,php,mysql,python,react,"></a></p>
 
 
 
